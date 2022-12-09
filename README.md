@@ -7,8 +7,7 @@
 </p>
 
 I am Shannon Quinn, currently:
- - an Associate Professor at University of Georgia, *on sabbatical*
- - a Solutions Architect at [Quansight](http://quansight.com/)
+ - an Associate Professor at University of Georgia
  - interested in anything i) 👨‍💻 open source, ii) 🐍 PyData, and iii) 🍩 donuts
 
 ### 🔭 What I do here...
