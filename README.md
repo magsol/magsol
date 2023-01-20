@@ -23,8 +23,6 @@ I vividly remember attending the [Magical NumPy with JAX workshop](https://ericm
 
 I resolved at that point to start prioritizing my own coding and work back to the kinds of activity levels I had in the mid-2010s and earlier.
 
-Since then, I've contributed to a few PyData projects (again, usually through private companies; sorry) as well as directly to a couple open source projects (e.g., Mastodon) as time and priorities allow.
-
 Most of the work I do involves building frameworks composed of existing open source projects, so it is infrequent that I build something worth contributing back to the projects directly, BUT: open source is extraordinarily important to me, and so I'm making time to contribute back even if it's in the form of documentation.
 
 ### 🌱 I’m currently learning...
