@@ -14,7 +14,7 @@ I am Shannon Quinn, currently:
 
 On GitHub specifically? That's... complicated.
 
-I've had recruiting complain to me that they don't see very many actual code contributions from me. That's because
+I've had recruiters complain to me that they don't see very many actual code contributions on my account. That's because
  - teaching all but consumed my academic career starting a few years before the pandemic, and most certainly during
  - in that time, all you'd really see from me are slide decks, assignment PDFs, and HTML updates sporting links to said slide decks and assignment PDFs
  - actual coding was still happening, but 1) in uncomfortably small quantities, and 2) usually in private repos (active experiments, corporate repos, etc)
