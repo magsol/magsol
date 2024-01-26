@@ -8,6 +8,7 @@
 
 I am Shannon Quinn, currently:
  - an Associate Professor at University of Georgia
+ - a Principal AI/MI Scientist at PredxBio
  - interested in anything i) 👨‍💻 open source, ii) 🐍 PyData, and iii) 🍩 donuts
 
 ### 🔭 What I do here...
