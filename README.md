@@ -7,8 +7,8 @@
 </p>
 
 I am Shannon Quinn, currently:
- - an Associate Professor at University of Georgia
- - a Principal AI/MI Scientist at PredxBio
+ - an MLE at [Valo Health](https://www.valohealth.com/)
+ - a recovering academic and former tenured professor 🎓
  - interested in anything i) 👨‍💻 open source, ii) 🐍 PyData, and iii) 🍩 donuts
 
 ### 🔭 What I do here...
@@ -28,7 +28,7 @@ Most of the work I do involves building frameworks composed of existing open sou
 
 ### 🌱 I’m currently learning...
 
-Rust! And brushing up on Julia after a few years away. Also dipping into DevOps work, particularly as I spin up and maintain my own Mastodon instance.
+[Pixi](https://pixi.sh/latest/)! And [MLFlow](https://mlflow.org/)! Both super cool and amazing at what they do.
 
 ### 💬 Ask me about...
 
@@ -40,4 +40,4 @@ I ran over 1600 miles in a year once. I hope to break that record someday!
 
 ### 📫 How to reach me...
 
-Shoot me a message via twitter or e-mail, or even create an [issue](https://github.com/magsol/magsol/issues)!
+Shoot me a message via Mastodon or e-mail, or even create an [issue](https://github.com/magsol/magsol/issues)!
