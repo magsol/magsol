@@ -15,7 +15,7 @@ I am Shannon Quinn, currently:
 
 On GitHub specifically? Increasingly little! I don't really like it here. I have, however, started carving out a LOVELY (public) coding home on [Codeberg](https://codeberg.org/magsol)!
 
-I'm still active as a [JOSE editor](https://jose.theoj.org), and a member of the [Apache Mahout PMC](https://mahout.apache.org) so I'm certainly not disappearing from GitHub altogether.
+I'm still active as a [JOSE editor](https://jose.theoj.org) and a member of the [Apache Mahout PMC](https://mahout.apache.org), so I'm certainly not disappearing from GitHub altogether.
 
 ### 💬 Ask me about...
 
